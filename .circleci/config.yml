@@ -8,7 +8,7 @@ jobs:
       # Scan changed files in PRs, block on new issues only (existing issues ignored)
       # SEMGREP_BASELINE_REF: << parameters.diff_branch >>
       SEMGREP_REPO_URL: https://semgrep.dev/orgs/h4ckw1thn33r4j/
-      SEMGREP_APP_TOKEN: ccfe3c400e3c31f7e307af39b1b56c648e4ec6e6900103f493eb196b507a2ea3
+      SEMGREP_APP_TOKEN: 1ec1862ab329dd2a9d111366f6686c3770d3194c88a09cd5e37e533acb1f7bfd
       
 
       # Change job timeout (default is 1800 seconds; set to 0 to disable)
